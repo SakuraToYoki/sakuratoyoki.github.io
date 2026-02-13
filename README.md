@@ -1,2 +1,2 @@
-# SakuraToYoki.github.io
+# sakuratoyoki.github.io
 Self-use blog
